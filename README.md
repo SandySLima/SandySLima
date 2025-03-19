@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+I’m a beginner programmer currently studying Systems Analysis and Development at the Federal Institute of Education, Science, and Technology of São Paulo. I’m focusing on learning HTML, CSS, JavaScript, and C#, and I’m eager to challenge myself, starting with simple projects and gradually progressing to more advanced ones. I became interested in technology when I realized how transformative it can be for society, and I want to learn and improve to become a skilled professional, contributing to my future team and company. I’m excited to collaborate and learn from others in the tech community.
+<!-- 
 **SandySLima/SandySLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
